@@ -1,4 +1,4 @@
-import { chromium } from "playwright";
+import { chromium } from "playwright-core";
 
 const scrappingBCV = async () => {
   const browser = await chromium.launch();

@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "playwright": "^1.29.1",
+    "playwright-core": "^1.29.1",
     "telegraf": "^4.11.2"
   }
 }

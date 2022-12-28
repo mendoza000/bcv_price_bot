@@ -2,7 +2,7 @@ import { Telegraf } from "telegraf";
 import fs from "fs";
 // import { scrappingBCV } from "./utils/scrapping";
 
-import { chromium } from "playwright";
+import { chromium } from "playwright-core";
 // import { bold } from "telegraf/typings/format";
 
 const scrappingBCV = async () => {
